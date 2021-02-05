@@ -34,7 +34,7 @@ outlined. I use the CRISP DM Methodology to approach the project.
 
  from my project documentation.
 
-* There ae 6 datasets, 3 of which are Telecom datasets while 1
+* There are 6 datasets, 3 of which are Telecom datasets while 1
 
  is a cell geographical data set. 
 
